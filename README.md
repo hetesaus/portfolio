@@ -1,1 +1,2 @@
-# portfolio
+# Portfolio
+Made with VueJS, UIkit
