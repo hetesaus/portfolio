@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d7fc5"],{"78c1":function(n,t,e){"use strict";e.r(t);var s=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"uk-animation-slide-top"},[n._v("\n    Test page\n")])},a=[],c=e("2877"),i={},l=Object(c["a"])(i,s,a,!1,null,null,null);t["default"]=l.exports}}]);
-//# sourceMappingURL=chunk-2d0d7fc5.9ece60ac.js.map
