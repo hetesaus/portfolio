@@ -1,0 +1,5 @@
+const e={id:"clickCrafter",overviewTags:["Game"],overviewImage:"/assets/overview/clickCrafter.jpg",year:2016,title:"Click Crafter",description:`A game focused on clicking, collecting resources, and crafting to expand your production. Clicking a tree, for example, yields wood, which can be used to craft a lumberyard that increases gathering speed and eventually automates the process. 
+
+ Crafting is spatially organized, each block has input and output areas where other blocks must be placed to create new items. The game features multiple block types, including resources, crafters, consumables (for unlocking new recipes), utility blocks for automation and a large stationary crafter capable of producing most items. 
+
+ The game is all about completing quests, automating crafting processes and most of all clicking blocks to create more blocks.`,trailer:"https://www.youtube.com/embed/Zue3JT-yP4E",images:["/assets/projects/clickCrafter/screen_01.jpg","/assets/projects/clickCrafter/screen_02.jpg"],tags:["Game","Unity","3D","Crafting","Clicker","Sandbox"]};export{e as default};
