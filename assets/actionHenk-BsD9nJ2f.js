@@ -1,0 +1,3 @@
+const e={id:"actionHenk",overviewTags:["Art"],overviewImage:"/@assets/overview/actionHenk.jpg",year:2014,title:"Action Henk Poster",description:`During my internship at Codeglue, my first assignment on the art team was to create fan art for Action Henk, a game they were supporting. I decided to make a retro Sonic crossover, combining my love for pixel art with a nod to Codeglue’s work on the Terraria mobile version. 
+
+ This project allowed me to showcase my pixel art skills while exploring creative reinterpretations of existing game worlds.`,logo:"/@assets/projects/actionHenk/logo.png",cover:"/@assets/projects/actionHenk/cover.jpg",images:["/@assets/projects/actionHenk/screen_01.jpg"],tags:["Fanart","Internship","Action Henk","Crossover"]};export{e as default};
