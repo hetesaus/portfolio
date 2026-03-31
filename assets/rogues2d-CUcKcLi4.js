@@ -1,5 +1,0 @@
-const e={id:"rogues2d",overviewTags:["Game"],overviewImage:"/assets/overview/rogues2d.jpg",year:2015,title:"Rogues with Benefits (2D)",description:`A 4-player online roguelike prototype where you and your friends explore randomly generated dungeons in search of loot, glory, and fame. Players work together to survive waves of enemies and grow stronger to face the massive threats lurking in the depths. 
-
- This prototype laid the foundation for the full Rogues with Benefits game, helping us test core mechanics, multiplayer interactions, and dungeon generation. 
-
- One of my favorite features is the ghost mechanic, when you die, you can still assist your friends by scouting ahead and warning them about upcoming dangers, keeping you involved even after defeat.`,logo:"/assets/projects/rogues2d/logo.png",trailer:"https://www.youtube.com/embed/sdPgG7C7PJw",images:["/assets/projects/rogues2d/screen_01.jpg","/assets/projects/rogues2d/screen_02.jpg","/assets/projects/rogues2d/screen_03.jpg"],tags:["Game","Unity","2D","Roguelite","Randomly Generated","Online","Multiplayer","Prototype","Photon Networking"]};export{e as default};
